@@ -1,5 +1,5 @@
 {
-  "homepage" : "http://urjitdesai.github.io/beachResort/",
+  "homepage" : "http://urjitdesai.github.io/beachResort",
   "name": "hotel",
   "version": "0.1.0",
   "private": true,
@@ -15,7 +15,7 @@
     "styled-components": "^5.1.1"
   },
   "scripts": {
-    "predeploy": "npm run buid",
+    "predeploy": "npm run build",
 	"deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
